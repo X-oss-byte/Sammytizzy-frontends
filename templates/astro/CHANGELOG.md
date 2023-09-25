@@ -1,5 +1,17 @@
 # shopware-astro
 
+## 0.0.7
+
+### Patch Changes
+
+- [#396](https://github.com/shopware/frontends/pull/396) [`dfc49b80`](https://github.com/shopware/frontends/commit/dfc49b80bcaa8e00b71e0dff6e35b413383274f5) Thanks [@patzick](https://github.com/patzick)! - Dependency changes:
+
+  - Changed dependency _astro_ from **^3.0.10** to **^3.1.1**
+
+- Updated dependencies []:
+  - @shopware-pwa/api-client@0.6.0
+  - @shopware-pwa/composables-next@0.13.3
+
 ## 0.0.6
 
 ### Patch Changes

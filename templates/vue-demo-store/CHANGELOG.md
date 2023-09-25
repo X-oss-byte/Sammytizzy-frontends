@@ -1,5 +1,23 @@
 # vue-demo-store
 
+## 0.14.2
+
+### Patch Changes
+
+- [#394](https://github.com/shopware/frontends/pull/394) [`209236c3`](https://github.com/shopware/frontends/commit/209236c389942d624b8d1397ea2c9a9b35d73843) Thanks [@mdanilowicz](https://github.com/mdanilowicz)! - Change product listing structure
+
+- [#396](https://github.com/shopware/frontends/pull/396) [`dfc49b80`](https://github.com/shopware/frontends/commit/dfc49b80bcaa8e00b71e0dff6e35b413383274f5) Thanks [@patzick](https://github.com/patzick)! - Dependency changes:
+
+  - Changed dependency _@unocss/nuxt_ from **^0.55.7** to **^0.56.0**
+
+- Updated dependencies [[`dfc49b80`](https://github.com/shopware/frontends/commit/dfc49b80bcaa8e00b71e0dff6e35b413383274f5), [`dfc49b80`](https://github.com/shopware/frontends/commit/dfc49b80bcaa8e00b71e0dff6e35b413383274f5)]:
+  - @shopware-pwa/nuxt3-module@0.5.5
+  - @shopware-pwa/cms-base@0.8.6
+  - @shopware-pwa/api-client@0.6.0
+  - @shopware-pwa/composables-next@0.13.3
+  - @shopware-pwa/helpers-next@0.4.0
+  - @shopware-pwa/types@0.5.6
+
 ## 0.14.1
 
 ### Patch Changes

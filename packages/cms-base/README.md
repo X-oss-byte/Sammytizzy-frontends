@@ -81,16 +81,15 @@ No additional packages needed to be installed.
 
 Full changelog for stable version is available [here](https://github.com/shopware/frontends/blob/main/packages/cms-base/CHANGELOG.md)
 
-### Latest changes: 0.8.5
+### Latest changes: 0.8.6
 
 ### Patch Changes
 
-- [#385](https://github.com/shopware/frontends/pull/385) [`5d7e7973`](https://github.com/shopware/frontends/commit/5d7e7973437a4d74d19ec2fa0765c6d927bf8b2a) Thanks [@patzick](https://github.com/patzick)! - Dependency changes:
+- [#396](https://github.com/shopware/frontends/pull/396) [`dfc49b80`](https://github.com/shopware/frontends/commit/dfc49b80bcaa8e00b71e0dff6e35b413383274f5) Thanks [@patzick](https://github.com/patzick)! - Dependency changes:
 
-  - Changed dependency _@nuxt/kit_ from **^3.6.5** to **^3.7.1**
-  - Changed dependency _@vuelidate/validators_ from **^2.0.3** to **^2.0.4**
+  - Changed dependency _@nuxt/kit_ from **^3.7.1** to **^3.7.3**
 
-- Updated dependencies [[`211ccbb2`](https://github.com/shopware/frontends/commit/211ccbb2e4d9d6009847e6ff53099deb97d569de), [`b2b6905b`](https://github.com/shopware/frontends/commit/b2b6905beb8f28b79c0989ff9340c757e60001c9), [`61de0366`](https://github.com/shopware/frontends/commit/61de03662869e9ad8b69e2d8a868313a61a7a741), [`5d7e7973`](https://github.com/shopware/frontends/commit/5d7e7973437a4d74d19ec2fa0765c6d927bf8b2a)]:
-  - @shopware-pwa/composables-next@0.13.3
+- Updated dependencies []:
   - @shopware-pwa/api-client@0.6.0
+  - @shopware-pwa/composables-next@0.13.3
   - @shopware-pwa/helpers-next@0.4.0
